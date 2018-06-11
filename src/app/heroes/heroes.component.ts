@@ -11,6 +11,7 @@ export class HeroesComponent implements OnInit {
 
   //hero:Hero={id:1,name:'Windstorm'};
   //T5---
+  //here is something new
   heroes=HEROES;
   selectedHero: Hero;
 
